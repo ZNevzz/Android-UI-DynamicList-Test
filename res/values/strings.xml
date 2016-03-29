@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ASA</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="desc">banner</string>
+
+    <string name="but_members">members</string>
+    <string name="but_services">services</string>
+    <string name="but_altarservers">altar servers</string>
+    <string name="but_animators">animators</string>
+    <string name="but_attendance">attendance</string>
+    <string name="but_servings">servings</string>
+
+    <string name="asa">A S A</string>
+
+    <string name="title_activity_members">Members</string>
+    <string name="title_activity_services">Services</string>
+    <string name="title_activity_altar_servers">AltarServersActivity</string>
+    <string name="title_activity_frag">frag</string>
+    <string name="title_activity_groupwise">GroupwiseActivity</string>
+
+</resources>
